@@ -6,16 +6,11 @@
     "lint": "eslint .",
     "format": "prettier --write \"{test,src}/**/*.js\" *.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/VovanR/prettier-demo.git"
-  },
-  "author": "Vladimir Rodkin",
+  "repository": "inside-demo/prettier-demo",
+  "author": "Vladimir Rodkin <mail@vovanr.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/VovanR/prettier-demo/issues"
-  },
-  "homepage": "https://github.com/VovanR/prettier-demo",
+  "bugs": "https://github.com/inside-demo/prettier-demo/issues",
+  "homepage": "https://github.com/inside-demo/prettier-demo",
   "devDependencies": {
     "eslint": "^4.7.2",
     "eslint-config-prettier": "^2.6.0",
@@ -23,11 +18,5 @@
   },
   "engines": {
     "node": ">= 6"
-  },
-  "jest": {
-    "setupFiles": [
-      "raf/polyfill",
-      "<rootDir>/test/setup.js"
-    ]
   }
 }
