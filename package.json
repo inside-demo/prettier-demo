@@ -12,9 +12,10 @@
   "bugs": "https://github.com/inside-demo/prettier-demo/issues",
   "homepage": "https://github.com/inside-demo/prettier-demo",
   "devDependencies": {
-    "eslint": "^4.7.2",
-    "eslint-config-prettier": "^2.6.0",
-    "prettier": "^1.7.4"
+    "eslint": "^4.17.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "prettier": "^1.10.2"
   },
   "engines": {
     "node": ">= 6"
