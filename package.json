@@ -7,7 +7,7 @@
     "format": "prettier --write \"{test,src}/**/*.js\" *.js"
   },
   "repository": "inside-demo/prettier-demo",
-  "author": "Vladimir Rodkin <mail@vovanr.com>",
+  "author": "Vladimir Rodkin <mail@vovanr.com> (https://github.com/VovanR)",
   "license": "MIT",
   "bugs": "https://github.com/inside-demo/prettier-demo/issues",
   "homepage": "https://github.com/inside-demo/prettier-demo",
