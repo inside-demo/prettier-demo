@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "lint": "eslint .",
-    "format": "prettier --write \"{test,src}/**/*.js\" *.js"
+    "format": "prettier --write \"{test,src}/**/*.{js,css}\""
   },
   "repository": "inside-demo/prettier-demo",
   "author": "Vladimir Rodkin <mail@vovanr.com> (https://github.com/VovanR)",
